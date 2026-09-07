@@ -1,239 +1,303 @@
 <div align="center">
 
-# **VEENOTHA Y**
+# ✦ VEENOTHA Y
 
-### Computer Science Engineering Student · Software Developer · UI/UX Enthusiast
+### `CSE Student` · `Developer` · `Designer` · `Problem Solver`
 
-**Building practical solutions with code, design & intelligent technology.**
+**I turn ideas into interfaces, interfaces into applications, and problems into projects.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/veenotha-yogeshwaran-3a9398370/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/veenothay078-sys">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/veenothay078-sys/Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:veenothay078@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👋 Introduction
+## `01` — WHO I AM
 
-I'm a **Computer Science Engineering student** who enjoys turning ideas into practical digital products.
+I'm **Veenotha**, a Computer Science Engineering student who likes to learn by building.
 
-My interests span across **software development, mobile applications, web technologies, AI-powered solutions, data-driven applications, and UI/UX design**.
+I don't want to be limited to one side of technology.
 
-I believe that good software is not just about writing code — it's about **understanding a problem, designing a useful experience, and building a solution that creates real value.**
+Sometimes I'm writing **Java** to solve a problem.
 
----
+Sometimes I'm designing an interface in **Figma**.
 
-## 🧠 About Me
+Sometimes I'm building a mobile application with **Flutter & Firebase**.
 
-I'm currently pursuing my **B.E. in Computer Science Engineering** at Dr. N.G.P Institute of Technology with a **CGPA of 8.01**.
+And sometimes I'm asking:
 
-I enjoy exploring new technologies by building projects rather than learning only through theory. My project experience includes **Flutter mobile applications, React web applications, Java-based tools, AI-powered platforms, dashboards, and UI/UX design**.
+> **"Can AI make this application smarter?"**
 
-I'm particularly interested in:
-
-* ☕ Java & Data Structures
-* 📱 Mobile Application Development
-* 🌐 Full-Stack Web Development
-* 🤖 AI-Powered Applications
-* 🎨 UI/UX & Product Design
-* 📊 Data Visualization & Analytics
-
-Currently, I'm focused on becoming a stronger **software developer by improving my problem-solving skills, development practices, and understanding of modern technologies.**
+That curiosity is what drives most of the things I build.
 
 ---
 
-## 🤝 Let's Connect
+## `02` — MY WAY OF BUILDING
+
+```text
+                    ┌──────────────┐
+                    │    IDEA      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    PROBLEM   │
+                    └──────┬───────┘
+                           ↓
+              ┌────────────┴────────────┐
+              ↓                         ↓
+        ┌───────────┐             ┌───────────┐
+        │   DESIGN  │             │   LOGIC   │
+        │   Figma   │             │   Java/AI │
+        └─────┬─────┘             └─────┬─────┘
+              └────────────┬────────────┘
+                           ↓
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    IMPROVE   │
+                    └──────────────┘
+```
+
+I enjoy the entire process — **understanding the problem, designing the experience, building the solution, and improving it.**
+
+---
+
+# `03` — THINGS I'VE BUILT
+
+### 🩸 PLASMAX
+
+**When a problem is urgent, technology should be useful — not complicated.**
+
+A mobile platform for plasma donor management and emergency donor discovery.
+
+`Flutter` `Firebase` `Cloud Firestore` `GPS` `AI`
+
+**Built around:**
+
+`DONOR → VERIFICATION → REQUEST → DISCOVERY → ACTION`
+
+---
+
+### 🧠 OMNISCHOLAR CORTEX 4.0
+
+**What if student data could tell a story instead of sitting inside a spreadsheet?**
+
+An academic intelligence dashboard designed around student performance, predictive scoring and cohort analytics.
+
+`JavaScript` `Predictive Analytics` `UI Design`
+
+**Built around:**
+
+`DATA → INSIGHT → PREDICTION → DECISION`
+
+---
+
+### 🤖 AI RESUME ANALYZER
+
+**A resume is more than a document. It's evidence of what someone can do.**
+
+An AI-powered platform that analyzes PDF/DOCX resumes, extracts skills and evaluates ATS structure.
+
+`Python` `Flask` `JavaScript`
+
+**Built around:**
+
+`RESUME → EXTRACTION → SKILLS → ANALYSIS → INSIGHT`
+
+---
+
+### 🏛️ DISTRICT WISE COMPLAINT PORTAL
+
+**Making citizen complaints easier to register, organize and track.**
+
+A web application for district-wise complaint management.
+
+`React` `HTML` `CSS` `WampServer`
+
+---
+
+### 💰 PERSONAL FINANCE TRACKER
+
+**Know where your money goes before wondering where it went.**
+
+A responsive dashboard for tracking income, expenses, budgets and spending patterns.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🧩 LEETCODE TRACKER
+
+**Because progress is easier to see when you track it.**
+
+A Java-based tool for monitoring DSA problem-solving progress.
+
+`Java`
+
+---
+
+# `04` — MY TOOLBOX
 
 <div align="center">
 
+### I WRITE
+
+`Java` · `Python` · `JavaScript`
+
+### I BUILD WITH
+
+`React` · `Flutter` · `Firebase` · `Flask`
+
+### I DESIGN WITH
+
+`Figma`
+
+### I WORK WITH
+
+`Git` · `GitHub` · `Power BI` · `Excel` · `WampServer`
+
+</div>
+
+---
+
+# `05` — WHERE CODE MEETS DESIGN
+
+My interest in **UI/UX** started from a simple thought:
+
+> **A technically correct application can still be a difficult application to use.**
+
+During my UI/UX internship, I worked with **Figma, user research and responsive interface design**, while collaborating with developers to improve usability.
+
+That experience changed how I look at software.
+
+I don't just ask:
+
+**"Does it work?"**
+
+I also ask:
+
+**"Does it make sense to the person using it?"**
+
+---
+
+# `06` — CURRENTLY IN PROGRESS
+
+```text
+☕ Java
+   └── Strengthening programming fundamentals
+
+🧩 Data Structures & Algorithms
+   └── Solving problems and improving logical thinking
+
+🌐 Full-Stack Development
+   └── Building complete applications instead of isolated pages
+
+📱 Flutter
+   └── Creating practical mobile experiences
+
+🤖 AI
+   └── Exploring intelligent features that solve real problems
+
+🎨 UI/UX
+   └── Designing interfaces that feel as good as they function
+```
+
+---
+
+# `07` — A FEW NUMBERS
+
+<div align="center">
+
+### 🎓 8.01
+
+**Current CGPA**
+
+### 🚀 6+
+
+**Projects Built**
+
+### 💻 Multiple
+
+**Technologies Explored**
+
+### 📜 2
+
+**NPTEL Certifications**
+
+</div>
+
+---
+
+# `08` — BEYOND THE CODE
+
+```text
+Curiosity    →  I like understanding how things work.
+
+Creativity   →  I enjoy designing better experiences.
+
+Consistency  →  I keep improving even when progress is slow.
+
+Problem Solving → I enjoy breaking big problems into smaller ones.
+
+Learning     →  Every project teaches me something new.
+```
+
+---
+
+# `09` — THE DIRECTION
+
+I'm working toward becoming a **well-rounded software engineer** who can move comfortably between:
+
+**Problem → Design → Code → Data → Intelligence → Product**
+
+I don't have everything figured out yet.
+
+And that's okay.
+
+**I'm building my way there.**
+
+---
+
+<div align="center">
+
+# Let's Build Something.
+
+If you're interested in **software development, AI, mobile applications, UI/UX, or just building something interesting**, let's connect.
+
+<br>
+
 <a href="https://www.linkedin.com/in/veenotha-yogeshwaran-3a9398370/">
-  <img src="https://img.shields.io/badge/LinkedIn-Veenotha%20Y-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/veenothay078-sys">
-  <img src="https://img.shields.io/badge/GitHub-veenothay078--sys-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/veenothay078-sys/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:veenothay078@gmail.com">
-  <img src="https://img.shields.io/badge/Email-veenothay078%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
+📧 **[veenothay078@gmail.com](mailto:veenothay078@gmail.com)**
+
 📞 **6369142488**
 
-</div>
+<br>
 
----
+### `Learn → Build → Break → Understand → Improve`
 
-## 🛠️ Technical Skills
-
-### 💻 Programming
-
-`Java` · `Python` · `JavaScript`
-
-### 🌐 Web Development
-
-`HTML` · `CSS` · `React`
-
-### 📱 Mobile Development
-
-`Flutter` · `Firebase` · `Cloud Firestore`
-
-### 🤖 AI & Intelligent Applications
-
-`AI-powered Applications` · `Predictive Analytics` · `Document Analysis`
-
-### 🎨 UI/UX & Design
-
-`Figma` · `Responsive Design` · `UI/UX Design`
-
-### 📊 Analytics & Tools
-
-`Power BI` · `MS Excel` · `Git` · `GitHub` · `WampServer`
-
----
-
-# 🚀 Projects
-
-## 🩸 Plasmax — Plasma Bank & Donor Management System
-
-**Flutter · Firebase · Cloud Firestore · GPS · AI**
-
-A cross-platform mobile application focused on simplifying plasma donor management and emergency donor discovery.
-
-**Key Features:**
-
-* Donor registration
-* Firebase authentication
-* Admin verification
-* Real-time plasma intake requests
-* Emergency donor search
-* GPS-based hospital locator
-* AI-powered medical assistance
-
-**Focus:** Healthcare Technology · Mobile Development · Real-Time Systems
-
----
-
-## 🏛️ District Wise Complaint Portal
-
-**React · HTML · CSS · WampServer**
-
-A web-based complaint management platform that enables citizens to register and track complaints district-wise.
-
-**Key Features:**
-
-* Online complaint registration
-* District-wise complaint management
-* Complaint tracking
-* Responsive React interface
-* Backend integration
-
-**Focus:** Web Development · Civic Technology · User Experience
-
----
-
-## 🧠 OmniScholar Cortex 4.0
-
-**JavaScript · Predictive Analytics · UI Design**
-
-A next-generation academic intelligence dashboard designed to analyze and visualize student performance.
-
-**Key Features:**
-
-* 360° student performance profiles
-* Predictive score simulation
-* Cohort analytics
-* Academic telemetry
-* Interactive dashboard interface
-
-**Focus:** EdTech · Data Visualization · Predictive Analytics
-
----
-
-## 🤖 AI Resume Analyzer & Skill Matcher
-
-**Python Flask · JavaScript**
-
-An AI-powered platform designed to analyze resumes and extract categorized skills.
-
-**Key Features:**
-
-* PDF/DOCX resume parsing
-* Evidence-based skill extraction
-* Skill categorization
-* ATS structural compatibility analysis
-* Resume optimization insights
-
-**Focus:** AI · Document Analysis · Career Technology
-
----
-
-## 💰 Personal Finance Tracker
-
-**HTML · CSS · JavaScript**
-
-A responsive dashboard designed to help users manage and understand their personal finances.
-
-**Key Features:**
-
-* Income tracking
-* Expense management
-* Budget monitoring
-* Visual spending analytics
-* Responsive dashboard
-
-**Focus:** FinTech · Data Visualization · Frontend Development
-
----
-
-## 🧩 LeetCode Tracker
-
-**Java**
-
-A Java-based application created to track and monitor DSA problem-solving progress.
-
-**Focus:** Java · Data Structures & Algorithms · Problem Solving
-
----
-
-## 💼 Experience
-
-### UI/UX Intern — App Innovation Technologies
-
-During my internship, I worked on:
-
-* 🎨 UI/UX design using Figma
-* 🔍 User research
-* 📱 Responsive interface development
-* 🤝 Collaboration with development teams
-* ✨ Improving application usability and user experience
-
-This experience helped me understand how **design decisions and technical implementation work together to create better products.**
-
----
-
-## 🏆 Achievements
-
-* 🎓 Pursuing **B.E. Computer Science Engineering**
-* 📊 Current **CGPA: 8.01**
-* 🚀 Built and shipped **6+ academic and personal projects**
-* 📱 Developed mobile applications using **Flutter & Firebase**
-* 🤖 Built AI-driven application concepts
-* 🎨 Completed hands-on **UI/UX internship experience**
-* ☁️ NPTEL Certified — **Cloud Computing**
-* 🌐 NPTEL Certified — **Internet of Things**
-* 🔐 Participated in **Cyber Security workshops**
-* 🧩 Actively practicing **Data Structures & Algorithms**
-
----
-
-<div align="center">
-
-### 🌱 Learn → Build → Improve → Repeat
-
-**Thanks for visiting my GitHub profile! 🚀**
+**Thanks for stopping by. ✦**
 
 </div>
