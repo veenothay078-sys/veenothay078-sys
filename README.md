@@ -60,7 +60,6 @@ A modern healthcare SaaS platform that makes hospital appointments and queue man
 ✨ Admin queue console
 ✨ Analytics dashboard
 
-**[→ View MediQueue](https://github.com/veenothay078-sys/MediQueue)**
 
 ---
 
