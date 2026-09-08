@@ -1,12 +1,16 @@
+<div align="center">
+
 # ✦ VEENOTHA Y
-
-### `Computer Science Engineer` · `Software Developer` · `UI/UX Designer` · `AI Enthusiast`
-
-**Building useful products with code, creativity & curiosity.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/veenotha-yogeshwaran-3a9398370/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/veenothay078-sys)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:veenothay078@gmail.com)
+
+</div>
+
+### `Computer Science Engineer` · `Software Developer` · `UI/UX Designer` · `AI Enthusiast`
+
+**Building useful products with code, creativity & curiosity.**
 
 ---
 
